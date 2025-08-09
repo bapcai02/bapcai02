@@ -1,6 +1,6 @@
 <!-- Banner or Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" style="border-radius: 50%" alt="Your Avatar"/>
+  <img src="https://cdn.svgator.com/images/2024/01/svgator-bird-alligator-cta.gif" width="320" style="border-radius: 50%" alt="Your Avatar"/>
 </p>
 
 <!-- Title -->
